@@ -1,5 +1,3 @@
 <div align="center">
-
-
 ![](https://komarev.com/ghpvc/?username=nneibolt&label=☆&color=C4D1DD)
-<div align="center"><img width="498" height="280" alt="68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f75477876586f4d734d59305131673d3d2d313236353031393531302e313731306537646265393765346562" src= https://files.catbox.moe/y4rhis.png"/>
+<div align="center"><img width="1155" height="897" alt="nneibolt" src="https://github.com/user-attachments/assets/86c138b3-8c62-481a-a699-1ac88686f9fe" />
